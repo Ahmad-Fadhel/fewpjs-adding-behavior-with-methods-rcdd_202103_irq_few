@@ -36,6 +36,6 @@ class Bird {
   }
 }
 
-const cat = new Cat()
+const cat = new Cat("Sasha", "female")
 cat.speak();
 
