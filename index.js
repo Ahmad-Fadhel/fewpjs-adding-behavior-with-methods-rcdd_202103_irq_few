@@ -39,3 +39,12 @@ class Bird {
 const cat = new Cat("Sasha", "female")
 cat.speak();
 
+const dog = new Dog("Sasha", "female")
+dog.speak();
+
+const bird = new Bird("Sasha", "female")
+bird.speak();
+
+
+
+
