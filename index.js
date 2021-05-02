@@ -36,3 +36,6 @@ class Bird {
   }
 }
 
+const cat = new Cat()
+cat.speak();
+
