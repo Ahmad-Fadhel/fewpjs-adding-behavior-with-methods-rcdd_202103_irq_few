@@ -42,8 +42,10 @@ cat.speak();
 const dog = new Dog("Rufio", "male")
 dog.speak();
 
-const bird = new Bird("Sasha", "female")
+const bird = new Bird("Pablo", "male")
+const bird2 = new Bird("Mable", "female")
 bird.speak();
+bird2.speak();
 
 
 
